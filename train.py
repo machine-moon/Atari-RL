@@ -1,4 +1,3 @@
-#!/home/titan/workspace/mlos/venvs/jax/bin/python3
 from environment import *
 from dqn_agent import Agent
 import jax
